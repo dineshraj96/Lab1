@@ -1,8 +1,8 @@
 {
   "name": "My WebAPP",
   "short_name": "PWA",
-  "start_url": "/",
-  "id": "/",
+  "start_url": "/Lab1/",
+  "id": "/Lab1/",
   "description": "Lab1",
   "display": "standalone",
   "background_color": "#f00",
