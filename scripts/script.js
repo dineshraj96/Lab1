@@ -1,7 +1,7 @@
 console.log('From Scripts: ', document);
 if ('serviceWorker' in navigator) 
 {
-     navigator.serviceWorker.register('/Lab1//service-worker.js',{
+     navigator.serviceWorker.register('/Lab1/service-worker.js',{
           scope:'/Lab1/'
      }) .then((registration) => 
      { console.log('Success. Scope:', registration.scope); }) .
