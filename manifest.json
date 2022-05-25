@@ -1,14 +1,8 @@
 {
   "name": "My WebAPP",
-<<<<<<< HEAD
   "short_name": "Lab1APP",
-  "start_url": "/",
-  "id": "/",
-=======
-  "short_name": "PWA",
   "start_url": "/Lab1/",
   "id": "/Lab1/",
->>>>>>> 7fae0f4dc4a117151c1c65f14881d3f026866bdc
   "description": "Lab1",
   "display": "standalone",
   "background_color": "#f00",
